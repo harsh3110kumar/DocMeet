@@ -53,13 +53,13 @@ export default function RootLayout({ children }) {
                     DocMeet is your on-demand telehealth platform—connect with board-certified doctors anytime, anywhere.
                   </p>
                   <div className="flex space-x-4 text-emerald-300">
-                    <Link href="https://twitter.com/yourhandle" target="_blank" aria-label="Twitter">
+                    <Link href="https://twitter.com/" target="_blank" aria-label="Twitter">
                       <Twitter className="h-6 w-6 hover:text-white transition-colors" />
                     </Link>
-                    <Link href="https://linkedin.com/company/yourpage" target="_blank" aria-label="LinkedIn">
+                    <Link href="https://www.linkedin.com/in/harsh-kumar3110/" target="_blank" aria-label="LinkedIn">
                       <Linkedin className="h-6 w-6 hover:text-white transition-colors" />
                     </Link>
-                    <Link href="mailto:support@docmeet.com" aria-label="Email">
+                    <Link href="mailto:harsh3110kumar@gmail.com" aria-label="Email">
                       <Mail className="h-6 w-6 hover:text-white transition-colors" />
                     </Link>
                   </div>
